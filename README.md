@@ -6,6 +6,7 @@ This repository hosts GitHub Pages privacy policies and support pages for apps p
 
 - Primary index: `https://senn-apps.github.io/privacy/`
 - Chartband privacy: `https://senn-apps.github.io/privacy/chartband/`
+- CertSentry privacy: `https://senn-apps.github.io/privacy/certsentry/`
 - Future apps: `https://senn-apps.github.io/privacy/<app-name>/`
 
 ## Contact
@@ -18,9 +19,10 @@ This repository hosts GitHub Pages privacy policies and support pages for apps p
 ```text
 senn-privacy/
   README.md
-  privacy/
-    chartband/
-      index.md
+  chartband/
+    index.md
+  certsentry/
+    index.md
 ```
 
 ## Publishing Notes
